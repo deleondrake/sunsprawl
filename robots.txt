@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://deleondrake.github.io/sunsprawl/sitemap.xml

@@ -1,0 +1,139 @@
+{
+ "shield": {
+  "x": 0,
+  "y": 0,
+  "width": 24,
+  "height": 18,
+  "pixelRatio": 1,
+  "stretchX": [
+   [
+    7,
+    17
+   ]
+  ],
+  "stretchY": [
+   [
+    7,
+    11
+   ]
+  ],
+  "content": [
+   4,
+   3,
+   20,
+   15
+  ]
+ },
+ "peak": {
+  "x": 26,
+  "y": 0,
+  "width": 10,
+  "height": 9,
+  "pixelRatio": 1
+ },
+ "airport": {
+  "x": 38,
+  "y": 0,
+  "width": 16,
+  "height": 16,
+  "pixelRatio": 1
+ },
+ "lm-sign": {
+  "x": 56,
+  "y": 0,
+  "width": 22,
+  "height": 22,
+  "pixelRatio": 1
+ },
+ "lm-observatory": {
+  "x": 80,
+  "y": 0,
+  "width": 22,
+  "height": 22,
+  "pixelRatio": 1
+ },
+ "lm-pier": {
+  "x": 104,
+  "y": 0,
+  "width": 22,
+  "height": 22,
+  "pixelRatio": 1
+ },
+ "lm-museum": {
+  "x": 0,
+  "y": 24,
+  "width": 22,
+  "height": 22,
+  "pixelRatio": 1
+ },
+ "lm-stadium": {
+  "x": 24,
+  "y": 24,
+  "width": 22,
+  "height": 22,
+  "pixelRatio": 1
+ },
+ "lm-bowl": {
+  "x": 48,
+  "y": 24,
+  "width": 22,
+  "height": 22,
+  "pixelRatio": 1
+ },
+ "lm-music": {
+  "x": 72,
+  "y": 24,
+  "width": 22,
+  "height": 22,
+  "pixelRatio": 1
+ },
+ "lm-rail": {
+  "x": 96,
+  "y": 24,
+  "width": 22,
+  "height": 22,
+  "pixelRatio": 1
+ },
+ "lm-ship": {
+  "x": 0,
+  "y": 48,
+  "width": 22,
+  "height": 22,
+  "pixelRatio": 1
+ },
+ "lm-towers": {
+  "x": 24,
+  "y": 48,
+  "width": 22,
+  "height": 22,
+  "pixelRatio": 1
+ },
+ "lm-lighthouse": {
+  "x": 48,
+  "y": 48,
+  "width": 22,
+  "height": 22,
+  "pixelRatio": 1
+ },
+ "lm-mission": {
+  "x": 72,
+  "y": 48,
+  "width": 22,
+  "height": 22,
+  "pixelRatio": 1
+ },
+ "lm-fish": {
+  "x": 96,
+  "y": 48,
+  "width": 22,
+  "height": 22,
+  "pixelRatio": 1
+ },
+ "lm-rocks": {
+  "x": 0,
+  "y": 72,
+  "width": 22,
+  "height": 22,
+  "pixelRatio": 1
+ }
+}

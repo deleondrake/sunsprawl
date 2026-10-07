@@ -1,0 +1,1 @@
+import{r as o,l as h,o as p}from"./index-BxLay_MD.js";const n=new Map;function f(e,r,c){const[d,s]=o.useState(null);return o.useEffect(()=>{if(!e||!r)return;let t=n.get(e.build);t||(t=c(e.core.url).then(u=>h(p(e,r),"core",u)),n.set(e.build,t));let l=!0;return t.then(u=>{l&&s(u)}).catch(()=>{}),()=>{l=!1}},[e,r,c]),d}export{f as u};
